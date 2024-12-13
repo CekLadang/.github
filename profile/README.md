@@ -1,9 +1,8 @@
 # CekLadang
 
-![CekLadang](https://github.com/rifkydelta/RempahRia/assets/68815594/19db733d-512c-4aff-b28b-cf70ef697cb3)
 
 CekLadang is an innovative application designed to enhance agricultural productivity and promote sustainability. By integrating **Cloud Computing**, **Machine Learning**, and **Mobile Development**, CekLadang empowers farmers with actionable insights for crop management and disease detection.
-
+## CekLadang demo video: https://youtu.be/tfwI0j6WqA4
 ---
 
 ## **Table of Contents**
@@ -13,7 +12,6 @@ CekLadang is an innovative application designed to enhance agricultural producti
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Repository Branches](#repository-branches)
-- [Demo](#demo)
 - [Contact](#contact)
 
 ---
@@ -26,7 +24,7 @@ CekLadang is an innovative application designed to enhance agricultural producti
 | Adriansyah Maulana Putra  | M331B4KY0134       | Machine Learning    | Universitas Trisakti                  |
 | Muhammad Irgi Faj’ri      | M210B4KY2915       | Machine Learning    | Universitas Ibn Khaldun Bogor         |
 | Bella Azka Oktavia        | C193B4KX0834       | Cloud Computing     | Universitas Bina Sarana Informatika   |
-| Clara Pratiwi             | C193B4KX0946       | Cloud Computing    | Universitas Bina Sarana Informatika |
+| Clara Pratiwi             | C193B4KX0946       | Cloud Computing     | Universitas Bina Sarana Informatika   |
 | Adrian Halim              | A331B4KY0129       | Mobile Development  | Universitas Trisakti                  |
 | Muhammad Ihsan Fadillah   | A210B4KY2898       | Mobile Development  | Universitas Ibn Khaldun Bogor         |
 
@@ -71,32 +69,16 @@ CekLadang is an innovative application designed to enhance agricultural producti
 - Camera Access
 
 ### **Installation**
-1. [Download the APK](https://drive.google.com/drive/folders/1fRGdmma5kzgR_RIYAWrThaZjV0mcXeXQ).
+1. [Download the APK](https://drive.google.com/drive/folders/1fRGdmma5kzgR_RIYAWrThaZjV0mcXeXQ?usp=drive_link).
 2. Install the app on your Android device.
 3. Start using **CekLadang** for smarter farming solutions!
 
 ---
 
-## **Repository Branches**
-
-Our project is divided into three main branches:
-
-- [Machine Learning](https://github.com/CekLadang/MachineLearning)
-- [Cloud Computing](https://github.com/CekLadang/CloudComputing)
-- [Mobile Development](https://github.com/rifkydelta/RempahRia/tree/MD-RempahRia)
-
----
-
-## **Demo**
 
 ### **Download the App**
 Click [here](https://drive.google.com/drive/folders/1fRGdmma5kzgR_RIYAWrThaZjV0mcXeXQ?usp=drive_link) to download the **CekLadang** app.
 
-### **Live Demo**
-
-<div align="center">
-  <video src="https://github.com/rifkydelta/RempahRia/assets/68815594/3d7294b3-eadc-492c-9f46-f520baa2dacb" width="400"></video>
-</div>
 
 ---
 
